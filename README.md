@@ -84,7 +84,6 @@ The project consists of two main user flows:
           </li>
         </ul>
       </li>
-
       <li>
         Admin can:
         <ul>
@@ -113,7 +112,6 @@ The project consists of two main user flows:
               </li>
             </ul>
           </li>
-
           <li><strong>Add a New Guest House</strong>:
             <ul>
               <li>Clicking the add button navigates to <code>admin_activity.xml</code> (<code>AddGuestActivity</code>).</li>
@@ -126,7 +124,6 @@ The project consists of two main user flows:
               </li>
             </ul>
           </li>
-
           <li>Return to the home screen at any time.</li>
         </ul>
       </li>
