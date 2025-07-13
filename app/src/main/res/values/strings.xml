@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Liste To-Do</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">
+        🌟 Discover the beauty of Tunisia 🇹🇳 by staying in its charming guest houses! 🏡
+    </string>
+
+    <string-array name="regions_array">
+        <item>North</item>
+        <item>South</item>
+        <item>East</item>
+        <item>West</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>Tunis</item>
+        <item>SFax</item>
+        <item>Sousse</item>
+        <item>Nabeul</item>
+        <item>jerba</item>
+        <item>Mahdia</item>
+        <item>Monastir</item>
+        <item>Tbarka</item>
+    </string-array>
+
+    <string-array name="classes">
+        <item>Budget-Friendly (30/50 TND per night)</item>
+        <item>Mid-Range(80/150 TND per night)</item>
+        <item>Luxury(minimum 200 per night)</item>
+        <item>Boutique Guest House(100/200 TND per night)</item>
+        <item>Prestige(minimum 500 TND per night)</item>
+    </string-array>
+    <string name="Logo">Logo</string>
+    <string name="TGHouses">Tunisian Guest Houses</string>
+    <string name="dw">Discover With Us The Most Famous Guest Houses in Tunisia 🇹🇳</string>
+    <string name="r">Region 🌍</string>
+    <string name="c">City 🏙️</string>
+    <string name="cbp">Classes by Price 💰</string>
+    <string name="IO">Image of the item</string>
+    <string name="N">Name:</string>
+</resources>

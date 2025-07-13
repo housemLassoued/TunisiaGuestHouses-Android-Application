@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#5A1D8E</color> <!-- Couleur principale (navbar, FAB) -->
+    <color name="secondaryColor">#FF9800</color> <!-- Couleur secondaire (accent) -->
+    <color name="light_background">#F3E5F5</color> <!-- Arrière-plan léger -->
+    <color name="primaryTextColor">#333333</color> <!-- Texte principal -->
+    <color name="secondaryTextColor">#757575</color>
+    <color name="bleue">#081899</color> <!-- Ancienne couleur "bleue" -->
+</resources>
